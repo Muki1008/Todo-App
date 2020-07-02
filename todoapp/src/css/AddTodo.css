@@ -1,0 +1,33 @@
+.AddTodo {
+  background-color: #eee;
+  padding: 15px;
+}
+form {
+  width: 100%;
+}
+.input {
+  height: 30px;
+  font-size: 22px;
+  margin-right: 10px;
+  text-align: center;
+}
+.ForId {
+  margin-left: 25px;
+  width: 4%;
+}
+.ForTODO {
+  width: 70%;
+}
+.ForTime {
+  width: 15%;
+  margin-right: 0;
+}
+.submit {
+  width: 6%;
+  color: #ffffff;
+  background-color: #333;
+  height: 30px;
+  font-size: 20px;
+  position: absolute;
+  right: 30px;
+}

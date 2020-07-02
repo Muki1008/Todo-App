@@ -1,0 +1,16 @@
+.TodoItem {
+  background-color: #eee;
+  padding: 15px;
+}
+.checkbox {
+  margin: 0 10px;
+}
+p {
+  padding: 5px 10px;
+  font-size: 22px;
+  background-color: #eb7171;
+}
+.time {
+  position: absolute;
+  right: 30px;
+}
